@@ -18,4 +18,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Awchar-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayush-awchar)
 
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-aw4)](https://github.com/Ayush-aw4/github-readme-stats)
+
 > "Code. Learn. Build. Repeat."
