@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ayush Awchar!<br>🎓 First-Year Computer Science Engineering Student at MIT ADT University<br><br>💻 Passionate about Data Structures & Algorithms, Full-Stack Development, and DevOps<br><br>🚀 Currently learning React, Node.js, MongoDB, Cloud Computing, and DevOps<br><br>📚 Solving LeetCode problems and improving problem-solving skills every day<br><br>🌱 Building projects that combine AI, Web Development, and Automation
+👋 Hi, I'm Ayush Awchar!<br>🎓 Second-Year Computer Science Engineering Student at MIT ADT University (Kalvium) <br><br>💻 Passionate about Data Structures & Algorithms, Full-Stack Development, and DevOps<br><br>🚀 Currently learning React, Node.js, MongoDB, Cloud Computing, and DevOps<br><br>📚 Solving LeetCode problems and improving problem-solving skills every day<br><br>🌱 Building projects that combine AI, Web Development, and Automation
 
 
 ## 🌐 Socials:
