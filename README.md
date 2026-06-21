@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-awchar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-awchar-7811a2372/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushawchar9403@gmail.com) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-ayushawchar9403-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ayushawchar9403)
 
