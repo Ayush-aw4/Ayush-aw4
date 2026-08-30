@@ -42,8 +42,6 @@ I'm constantly learning, building, and experimenting with new ideas. My goal is 
 </tr>
 </table>
 
-⚙️ Technologies
-
 <div align="center">
 
 
