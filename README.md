@@ -4,7 +4,7 @@ Welcome to Ayush's GitHub
 
 <!-- Header / Hero image from the reference screenshot -->
 
-<img src="(https://drive.google.com/file/d/1J78Q980hQCIG-86SkBKaBV9x3ANKjAib/view?usp=sharing)" alt="Welcome to Ayush's Github" width="100%" />
+<img src="https://camo.githubusercontent.com/849635b432b16c1bc017a8399219bacd1bc95d9046974c67891c37ca81b7c51b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37392f33312f34372f37393331343736333163353938383030363937363135666439353835326230312e6a7067" alt="Welcome to Ayush's Github" width="100%" />
 
 <br/>
 
