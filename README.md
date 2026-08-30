@@ -4,7 +4,7 @@ Welcome to Ayush's GitHub
 
 <!-- Header / Hero image from the reference screenshot -->
 
-<img src="(https://canva.link/b06dxw54u8r7kwl)" alt="Welcome to Ayush's Github" width="100%" />
+<img src="https://canva.link/vmx9bzbt13dyspe" alt="Welcome to Ayush's Github" width="100%" />
 
 <br/>
 
