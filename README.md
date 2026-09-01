@@ -30,11 +30,6 @@ I'm constantly learning, building, and experimenting with new ideas. My goal is 
 </div>
 
 </td>
-<td width="30%" align="center">
-
-<img src="YOUR_ABOUT_ME_GIF_URL_HERE" width="220" alt="About me animation" />
-
-</td>
 </tr>
 </table>
 
